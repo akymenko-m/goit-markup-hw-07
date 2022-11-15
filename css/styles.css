@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --main-text-color: #212121;
     --secondary-text-color: #757575;
     --accent-color: #2196F3;
@@ -8,9 +8,9 @@
     --background-color-light: #F5F4FA;
     --border-item-content: #EEEEEE;
     --background-color-hero: #C4C4C4
-}
+} */
 
-body {
+/* body {
     background-color: var(--white-color);
     color: var(--main-text-color);
     font-family: Roboto, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -55,7 +55,7 @@ img {
 
 .section:not(.our-features) {
     padding-bottom: 94px;
-}
+} */
 
 /* Header */
 .page-header {
@@ -72,7 +72,7 @@ img {
     align-items: center;
 }
 
-.logo {
+/* .logo {
     margin-right: 93px;
     color: #000000;
     text-decoration: none;
@@ -84,7 +84,7 @@ img {
 
 .logo span {
     color: var(--accent-color);
-}
+} */
 
 .site-nav {
     display: flex;
@@ -163,7 +163,7 @@ img {
 } */
 
 /* Hero */
-.hero {
+/* .hero {
     max-width: 1600px;
     background-color: var(--background-color-hero);
     background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/bg-img.jpg");
@@ -203,10 +203,10 @@ img {
     line-height: 1.88;
     letter-spacing: 0.06em;
     cursor: pointer;
-}
+} */
 
 /* our features */
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -217,35 +217,35 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
-.our-features-list {
+/* .our-features-list {
     display: flex;
     gap: 30px;
     justify-content: space-between;
-}
+} */
 
 /* .our-features-item:not(:first-child) {
     padding-left: 30px;
 } */
-.our-features-card {
+/* .our-features-card {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 120px;
     margin-bottom: 30px;
     background-color: var(--background-color-light);
-}
+} */
 
-.section-title {
+/* .section-title {
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
-}
+} */
 
-.section-subtitle {
+/* .section-subtitle {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -259,10 +259,10 @@ img {
 .our-features .description {
     color: var(--secondary-text-color);
     line-height: 1.71;
-}
+} */
 
 /* what we do */
-.what-we-do-list {
+/* .what-we-do-list {
     display: flex;
     justify-content: space-between;
     gap: 30px;
@@ -285,14 +285,14 @@ img {
     text-transform: uppercase;
     color: var(--white-color);
     background-color: rgba(47, 48, 58, 0.8);
-}
+} */
 
 /* .what-we-do-item:not(:first-child) {
     padding-left: 30px;
 } */
 
 /* our team */
-.our-team {
+/* .our-team {
     background-color: var(--background-color-light);
 }
 
@@ -325,9 +325,9 @@ img {
     color: var(--secondary-text-color);
     font-size: 16px;
     line-height: 1.19;
-}
+} */
 
-.social-list {
+/* .social-list {
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -361,10 +361,10 @@ img {
 .social-links:focus {
     background-color: var(--accent-color);
     color: var(--white-color);
-}
+} */
 
 /* regular-customers */
-.regular-customers-list {
+/* .regular-customers-list {
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -399,10 +399,10 @@ img {
 .regular-customers-link:focus {
     border: 1px solid var(--accent-color);
     color: var(--accent-color);
-}
+} */
 
 /* footer */
-.footer {
+/* .footer {
     padding-top: 60px;
     padding-bottom: 60px;
     background-color: var(--background-color-dark);
@@ -567,10 +567,10 @@ img {
 .icon-send {
     margin-left: 10px;
     fill: var(--white-color);
-}
+} */
 
 /* portfolio */
-.filter {
+/* .filter {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
@@ -671,10 +671,10 @@ img {
     color: var(--secondary-text-color);
     font-size: 16px;
     line-height: 1.87;
-}
+} */
 
-/* odal window */
-.backdrop {
+/* modal window */
+/* .backdrop {
     position: fixed;
     top: 0;
     left: 0;
@@ -871,4 +871,4 @@ img {
     line-height: calc(30/16);
     letter-spacing: 0.06em;
     cursor: pointer;
-}
+} */
